@@ -1,4 +1,4 @@
-# README 
+# Project Description
 
 Initially I wanted to create a dataset of how people described their pain to their doctors, but this information is very hard to come by. Instead I stumbled upon a lot of different articles and self helps books that would educate you on how to talk to your doctor, which is an interesting concept - why would you have to learn to manipulate the person in front of you at a consultation. 
 Therefore, I wanted to create a dataset of how people actually described it versus how people were advised to describe it. 
